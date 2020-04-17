@@ -1,0 +1,30 @@
+.question {
+    padding: 20px;
+    font-size: 40px;
+    font-weight: 700;
+}
+.button_box {
+    padding: 40px 60px;
+    overflow: hidden;
+}
+.button {
+    width: 200px;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+}
+.on {
+    float: left;
+}
+.next {
+    float: right;
+}
+.circle {
+    width:400px;
+    height:400px;
+    border-radius: 50%;
+    margin:40px auto;
+    line-height: 400px;
+    text-align: center;
+    font-size: 80px;
+}

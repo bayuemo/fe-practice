@@ -1,0 +1,128 @@
+{
+    "data":[
+        {
+           "question" : "在 JavaScript 中，有多少种不同类型的循环",
+           "answer":2,
+           "options":[
+                {
+                    "value":1,
+                    "label":"两种。for 循环和 while 循环。"
+                },
+                {
+                    "value":2,
+                    "label":"四种。for 循环、while 循环、do...while 循环以及 loop...until 循环。"
+                },
+                {
+                    "value":3,
+                    "label":"一种。for 循环。"
+                }
+           ]   
+        },
+        {
+            "question": "在 css 选择器当中，优先级排序正确的是",
+            "answer": 3,
+            "options": [
+                {
+                    "value": 1,
+                    "label": "id选择器>标签选择器>类选择器"
+                },
+                {
+                    "value": 2,
+                    "label": "类选择器>标签选择器>id选择器"
+                },
+                {
+                    "value": 3,
+                    "label": "id选择器>类选择器>标签选择器"
+                }
+            ]
+        },
+        {
+            "question": "关于HTML语义化，以下哪个说法是正确的？",
+            "answer": 4,
+            "options": [
+                {
+                    "value": 1,
+                    "label": "语义化的HTML有利于机器的阅读，如PDA手持设备、搜索引擎爬虫；但不利于人的阅读"
+                },
+                {
+                    "value": 2,
+                    "label": "Table 属于过时的标签，遇到数据列表时，需尽量使用 div 来模拟表格"
+                },
+                {
+                    "value": 3,
+                    "label": "语义化是HTML5带来的新概念，此前版本的HTML无法做到语义化"
+                },
+                {
+                    "value": 4,
+                    "label": "header、article、address都属于语义化明确的标签"
+                }
+            ]
+        },
+        {
+            "question": "CSS 样式，下面哪一个元素能够达到最大宽度，且前后各有一个换行？",
+            "answer": 1,
+            "options": [
+                {
+                    "value": 1,
+                    "label": "Block Element"
+                },
+                {
+                    "value": 2,
+                    "label": "Square Element"
+                },
+                {
+                    "value": 3,
+                    "label": "Side Element"
+                },
+                {
+                    "value": 4,
+                    "label": "Box Element"
+                }
+            ]
+        },
+        {
+            "question": "下面使用Animate-timing-function定义的贝塞尔曲线，哪一个是先快后慢的（ ）",
+            "answer": 1,
+            "options": [
+                {
+                    "value": 1,
+                    "label": "animation-timing-function : cubic-bezier(.22,1.23,.97,.89)"
+                },
+                {
+                    "value": 2,
+                    "label": "animation-timing-function : cubic-bezier(1.23,..22,97,.89)"
+                },
+                {
+                    "value": 3,
+                    "label": "animation-timing-function : cubic-bezier(1.23,.97,.89,.22)"
+                },
+                {
+                    "value": 4,
+                    "label": "animation-timing-function ： cubic-bezier(.22,.97,.89,1.23)"
+                }
+            ]
+        },
+        {
+            "question": "下列选项中，不属于CSS3样式选择器的是",
+            "answer": 4,
+            "options": [
+                {
+                    "value": 1,
+                    "label": "empty选择器"
+                },
+                {
+                    "value": 2,
+                    "label": "root 选择器"
+                },
+                {
+                    "value": 3,
+                    "label": "target选择器"
+                },
+                {
+                    "value": 4,
+                    "label": "ID选择器"
+                }
+            ]
+        }
+    ]
+}
