@@ -57,7 +57,8 @@ export default class Index extends Component {
         name: "practices",
       })
       .then(res => {
-        const list = res.result.data;
+        const list = res.result.data || [];
+        list.sort(() => Math.random()-0.5)
         this.setState({
           questionList:list,
           currentQuestion:list[currentIndex]
